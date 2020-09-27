@@ -4,12 +4,20 @@ geometry:
     - margin=1in
 header-includes: |
     \pagestyle{empty}
+    \usepackage{graphicx}
 ...
 
+\vspace{-1in}
+\begin{minipage}{.5\linewidth}
 \begin{tabular}{r l}
 email: &jonmagnusr@gmail.com\\
 tlf: &90259867
 \end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{.25\linewidth}\raggedleft
+\includegraphics[width=\linewidth, angle=90]{profile.jpg}
+\end{minipage}
 
 # Education
 
