@@ -16,7 +16,7 @@ tlf: &90259867
 \end{minipage}
 \hfill
 \begin{minipage}{.25\linewidth}\raggedleft
-\includegraphics[width=\linewidth, angle=90]{profile.jpg}
+\includegraphics[width=\linewidth]{profile.jpg}
 \end{minipage}
 
 # Education
