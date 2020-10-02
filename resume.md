@@ -40,13 +40,6 @@ Jul 2019 -- Aug 2019
 & Volunteering as research assistant (Jan 2019 -- Oct 2019).\\
 \end{tabular}
 
-# Extracurricular
-\begin{tabular}{r|l}
-Jan 2020 -- now
-& \textbf{Realistforeningen}, Bar shift leader\\
-& Recruiting and training volunteers for working shifts in the student pub.
-\end{tabular}
-
 # Publications
 "Using 2D and 3D Convolutional Neural Networks to Predict Semen Quality"
 J. Rosenblad, S. Hicks, H. K. Stensland, T. B. Haugen, P. Halvorsen, M. Riegler
