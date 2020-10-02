@@ -7,7 +7,7 @@ header-includes: |
     \usepackage{graphicx}
 ...
 
-\vspace{-1in}
+%\vspace{-1in}
 \begin{minipage}{.5\linewidth}
 \begin{tabular}{r l}
 email: &jonmagnusr@gmail.com\\
@@ -16,7 +16,7 @@ tlf: &90259867
 \end{minipage}
 \hfill
 \begin{minipage}{.25\linewidth}\raggedleft
-\includegraphics[width=\linewidth, angle=90]{profile.jpg}
+%\includegraphics[width=\linewidth, angle=90]{profile.jpg}
 \end{minipage}
 
 # Education
@@ -38,6 +38,13 @@ Jul 2019 -- Aug 2019
 & \textbf{Simula Research Laboratory}, Fornebu, Summer internship\\
 & Machine learning using convolutional neural network with temporal aggregation for regression on video data.\\
 & Volunteering as research assistant (Jan 2019 -- Oct 2019).\\
+\end{tabular}
+
+# Extracurricular
+\begin{tabular}{r|l}
+Jan 2020 -- now
+& \textbf{Realistforeningen}, Bar shift leader\\
+& Recruiting and training volunteers for working shifts in the student pub.
 \end{tabular}
 
 # Publications
