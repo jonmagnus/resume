@@ -7,7 +7,8 @@ header-includes: |
     \usepackage{graphicx}
 ...
 
-%\vspace{-1in}
+\thispagestyle{empty}
+
 \begin{minipage}{.5\linewidth}
 \begin{tabular}{r l}
 email: &jonmagnusr@gmail.com\\
@@ -16,20 +17,19 @@ tlf: &90259867
 \end{minipage}
 \hfill
 \begin{minipage}{.25\linewidth}\raggedleft
-%\includegraphics[width=\linewidth, angle=90]{profile.jpg}
 \end{minipage}
 
 # Education
 
 \begin{tabular}{r | l}
-2019 -- now & University of Oslo, Bachelor's of Mathematics and Informatics\\
+2019 -- 2020 & University of Oslo, Bachelor's of Mathematics and Informatics\\
 2016 -- 2019 & Valler vgs
 \end{tabular}
 
 # Work experience
 
 \begin{tabular}{r | p{.7\linewidth}}
-Jan 2020 -- now & \textbf{Oliasoft}, Lysaker, Mathematician \\
+Jan 2020 -- now & \textbf{Oliasoft}, Skøyen, Mathematician \\
 & Working on numerical optimization, computational geometry, and coordinate reference systems.\\
 Sep 2019 -- Mar 2020 
 & \textbf{University Center for Information Technology}, Oslo,  Junior Engineer\\
@@ -45,9 +45,11 @@ Jul 2019 -- Aug 2019
 J. Rosenblad, S. Hicks, H. K. Stensland, T. B. Haugen, P. Halvorsen, M. Riegler
 CEUR Workshop Proceedings - Multimedia Benchmark Workshop (MediaEval), Sophia Antipolis, France, October 2019
 
-# Achievements
+# Awards and Achievements
 
 \begin{tabular}{r | l}
+2020
+& Awarded Aker Scholarship\\
 2019
 & International Olympiad in Informatics, bronze medal\\
 & Baltic Olympiad in Informatics, participation\\
